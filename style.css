@@ -1,7 +1,10 @@
 @import "bourbon";
 
 body {
-    background-color: #ddd;
+     background-image: url(chessBG.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
 }
 
 .wrapper {
